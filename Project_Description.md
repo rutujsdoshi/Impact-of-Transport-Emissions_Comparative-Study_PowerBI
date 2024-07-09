@@ -2,6 +2,7 @@ This project provides a comprehensive understanding of the Impact of Transportat
 The insights derived from the Project are based on 30-year historical data.
 
 The Project provides a comparison between United States, India and China in terms of - 
+
 🔹 Total carbon emissions from Transportation.
 🔹 Per-Capita emissions from Transportation.
 🔹 Aviation Emissions.
